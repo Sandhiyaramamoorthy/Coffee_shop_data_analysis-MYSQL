@@ -4,7 +4,7 @@ The analysis covers various aspects of sales performance, including daily, weekl
 
 ## KPI'S REQUIREMENTS
 
-# Total Sales Analysis:
+### Total Sales Analysis:
 
 1. **Total Sales Analysis:**
    - Calculate the total sales for each respective month.
